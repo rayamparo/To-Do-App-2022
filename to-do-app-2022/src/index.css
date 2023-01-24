@@ -5,9 +5,24 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #784FEE;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.font-title {
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  font-size: 25px;
+  font-weight: 300;
+}
+
+.font-header {
+  font-family: 'Montserrat', sans-serif;
+  color: black;
+  font-size: 25px;
+  font-weight: 300;
 }
